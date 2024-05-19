@@ -9,6 +9,7 @@ import android.widget.ProgressBar
 import android.widget.TextView
 
 class TimerActivity : MainActivity() {
+    private var total: Int = 7
 
     private var isRunning: Boolean = false
     private var isPaused: Boolean = false
@@ -29,9 +30,9 @@ class TimerActivity : MainActivity() {
         val updateProgress = object : Runnable {
             override fun run() {
                 if (!isPaused && isRunning) {
-                    if (i <= 10) {
+                    if (i <= total) {
                         progressText.text = "$i"
-                        progressBar.progress = i
+                        progressBar.progress = ((i.toFloat()/total)*100).toInt()
                         i++
                         handler.postDelayed(this, 1000)
                     } else {
@@ -66,7 +67,7 @@ class TimerActivity : MainActivity() {
             startBtn.text = "Start"
             i = 1
             progressText.text = "Click on Start"
-            progressBar.progress = i
+            progressBar.progress = (i/total)*100;
         }
 
     }
