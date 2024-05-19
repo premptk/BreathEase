@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/drawable_yoga_homepage.png.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/drawable/yoga_homepage.png"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/drawable_progress_bar.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/drawable_circle_shape.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/xml_backup_rules.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.breatheasegit.app-debug-50:/drawable_progress_bar.xml.flat",
+        "source": "com.example.breatheasegit.app-main-52:/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/layout_home_layout.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/layout/home_layout.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/layout_breathing_page.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/layout/breathing_page.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.breatheasegit.app-debug-50:/drawable_circle_shape.xml.flat",
+        "source": "com.example.breatheasegit.app-main-52:/drawable/circle_shape.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-debug-50:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/prem.p.in/.gradle/daemon/8.4/com.example.breatheasegit.app-main-52:/mipmap-xhdpi/ic_launcher_round.webp"
+    }
+]
