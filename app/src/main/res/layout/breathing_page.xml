@@ -40,7 +40,7 @@
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:gravity="center"
-            android:text="Hello"
+            android:text="Click on Start"
             android:textColor="@color/white"
             android:textSize="28sp"
             android:textStyle="bold"/>
@@ -48,23 +48,23 @@
     </RelativeLayout>
 
     <Button
-        android:id="@+id/button1"
+        android:id="@+id/startBtn"
         android:layout_width="170dp"
         android:layout_height="70dp"
-        android:text="Pause"
+        android:text="Start"
         android:layout_marginTop="40dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/guideline_horizontal_half" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/stopBtn"
         android:layout_width="170dp"
         android:layout_height="70dp"
         android:text="Stop"
         android:layout_marginTop="30dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/button1" />
+        app:layout_constraintTop_toBottomOf="@id/startBtn" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
