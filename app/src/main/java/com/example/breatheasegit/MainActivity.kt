@@ -15,11 +15,19 @@ open class MainActivity : AppCompatActivity() {
         setContentView(R.layout.home_layout)
 
         val button1: Button = findViewById(R.id.button1)
+        val button2: Button = findViewById(R.id.button2)
 
         button1.setOnClickListener {
             val intent = Intent(applicationContext, TimerActivity::class.java)
+            intent.putExtra("inhaleTime", 7)
             startActivity(intent)
         }
 
+        button2.setOnClickListener {
+            val intent = Intent(applicationContext, TimerActivity::class.java)
+            intent.putExtra("inhaleTime", 5)
+            startActivity(intent)
         }
+
+    }
 }

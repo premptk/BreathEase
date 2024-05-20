@@ -37,7 +37,7 @@
         android:id="@+id/button1"
         android:layout_width="100dp"
         android:layout_height="70dp"
-        android:layout_marginRight="36dp"
+        android:layout_marginRight="30dp"
         android:text="Stress"
         app:layout_constraintHorizontal_bias="0.37"
         app:layout_constraintRight_toLeftOf="@id/guideline_vertical_half"
@@ -47,7 +47,7 @@
         android:id="@+id/button2"
         android:layout_width="100dp"
         android:layout_height="70dp"
-        android:layout_marginLeft="36dp"
+        android:layout_marginLeft="30dp"
         android:text="Anxiety"
         app:layout_constraintHorizontal_bias="0.37"
         app:layout_constraintLeft_toRightOf="@id/guideline_vertical_half"
@@ -57,8 +57,8 @@
         android:id="@+id/button3"
         android:layout_width="100dp"
         android:layout_height="70dp"
-        android:layout_marginTop="36dp"
-        android:layout_marginRight="36dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
         android:text="Relax"
         app:layout_constraintHorizontal_bias="0.37"
         app:layout_constraintRight_toLeftOf="@id/guideline_vertical_half"
@@ -68,11 +68,21 @@
         android:id="@+id/button4"
         android:layout_width="100dp"
         android:layout_height="70dp"
-        android:layout_marginTop="36dp"
-        android:layout_marginLeft="36dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="30dp"
         android:text="Exercise"
         app:layout_constraintHorizontal_bias="0.37"
         app:layout_constraintLeft_toRightOf="@id/guideline_vertical_half"
         app:layout_constraintTop_toBottomOf="@id/button2" />
+
+    <TextView
+        android:id="@+id/madeByText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Made with &#x2764; by Prem"
+        android:layout_marginBottom="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
