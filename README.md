@@ -73,13 +73,6 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out.
-
-- **Email**: youremail@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-
 ---
 
 Thank you for using BreathEase! We hope it helps you achieve a better state of mind and body through effective breathing exercises.
